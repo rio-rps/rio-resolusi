@@ -3,3 +3,4 @@ RESOLUSI
 1. Belajar Git 
 2. Belajar API
 3. Belajar Flutter
+4. Belajar Sinkronisasi API ke Flutter, Merch Shop & kolaborasi
